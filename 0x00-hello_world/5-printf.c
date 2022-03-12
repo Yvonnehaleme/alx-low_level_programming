@@ -3,11 +3,11 @@
 /** 
  * main - Entry point
  *
- * Return: Always 0 (succes)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
-	puts("\"programming is like building a  milingual puzzle"
+	printf("with proper grammar,but the output is piece of art,\n"
 );
 	return (0);
 }
