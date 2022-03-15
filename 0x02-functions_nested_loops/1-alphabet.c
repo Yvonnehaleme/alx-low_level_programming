@@ -1,19 +1,17 @@
 #include "main.h"
 
 /** 
- * print_alphabet - function to print alphabet in lower case using holberton.h
- * followed by a new line
- *
- * Return: void
+ * print_alphabet - check the code for ALX
+ * school students.
+ *Description: prints the alphabet with _putchar
+ * Return: Always 0.
  */
-
 void print_alphabet(void)
 {
-char a;
-
-for (a = 'a'; a <= 'z'; a++)
+char c;
+for (c = 'a'; c <= 'z'; c++)
 {
-_putchar(a);
+_putchar(c);
 }
 _putchar('\n');
 }
