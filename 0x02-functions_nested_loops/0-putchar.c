@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  * main - Entry point
  *
  * this program prints _putchar followed by a new line
