@@ -1,5 +1,4 @@
 #include "main.h"
-
 /** 
  * print_alphabet - check the code for ALX School students.
  * Description: prints the alphabet with _putchar
